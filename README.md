@@ -5,7 +5,7 @@
 <h4>📕 My Website</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [tejveersinghgoraya.com](https://ajulusthoughts.stephenajulu.com/post/5-free-tools-for-solopreneurs-entrepreneurs/)
+- [tejveersinghgoraya.com](https://tejveersinghgoraya.com)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>If you like my content please feel free to <a href="https://buy.stripe.com/28o3f2dMSadu4HS144">Buy me a Coffee</a>
