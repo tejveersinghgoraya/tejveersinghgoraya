@@ -1,25 +1,13 @@
-### Hi there 👋
-
-I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on tejveersinghgoraya.com. If you found value in something I have created, please feel free to [![buy me a coffee]][1], give me a shout out @tejveersinghgoraya .
-
+<!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
+<h3>Hi there! 👋🤓<br>I'm Tejveer Singh Goraya<br>a Software Developer</h3>
 
 
-<!--
-**tejveersinghgoraya/tejveersinghgoraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>📕 My Website</h4>
 
-Here are some ideas to get you started:
-https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+<!-- BLOG-POST-LIST:START -->
+- [tejveersinghgoraya.com](https://ajulusthoughts.stephenajulu.com/post/5-free-tools-for-solopreneurs-entrepreneurs/)
+<!-- BLOG-POST-LIST:END -->
+
+<h4>If you like my content please feel free to <a href="https://buy.stripe.com/28o3f2dMSadu4HS144">Buy me a Coffee</a>
 
 
-
-[1]: https://buy.stripe.com/28o3f2dMSadu4HS144
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
